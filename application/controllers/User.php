@@ -384,8 +384,8 @@ class User extends CI_Controller {
 
   public function penjadwalan()
   {
-    $where = array('ISACTIVE' =>'1','FLAG' =>'tools', );
-    $data = array('data' => $this->All_model->ambil('sensor',$where),'js'=>'' );
+    // $where = array('ISACTIVE' =>'1','FLAG' =>'tools', );
+    // $data = array('data' => $this->All_model->ambil('sensor',$where),'js'=>'' );
     $this->template->user('user/penjadwalan/index',$data);
   }
 
