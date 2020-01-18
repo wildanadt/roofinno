@@ -21,13 +21,13 @@
         <div class="card">
             <div class="card-body">
                 <div class="row">
-                    <div class="col-6">
+                    <div class="col">
                         <br>
-                        <h3><strong>Selamat kamu telah melakukan penghematan sebesar : </strong></h3>
+                        <h3><strong>Hallo Miftah, bulan ini kamu telah melakukan penghematan sebesar : </strong></h3>
                      </div>
-                    <div class="col-4 text-center float-right" style="background-color: #0000e5; text-align: right; margin-left: 140px; border-radius: 7px">
+                    <div class="col-4 col-md-auto text-center" style="background-color: #0000e5; text-align: right;  border-radius: 7px">
                         <br>
-                        <h1 style="color: white">Rp 20.000.000</h1>
+                        <h1 style="color: white; padding: 10px 70px 10px;">Rp 20.000.000</h1>
                         <h5 style="color: white">20 Juni 2018 - 20 Agustus 2019</h5>
                         <br>
                     </div>
@@ -46,27 +46,27 @@
                     <hr>
                 </div>
                 <div class="row">
-                    <div class="col-2.5">
+                    <div class="col ">
                         <h5 class="card-subtitle" style="margin-left: 15px; margin-top: 10px;">Total Penghematan</h5>
                     </div>
-                    <div class="col-lg-5" style="text-align: left">
+                    <!-- <div class="col-lg-2" style="text-align: left; margin-left: 50px;">
                         <!-- <h4 class="card-title" style="color: blue"><strong>600KWh</strong></h4>
                         <h6 class="card-subtitle">Total Produksi    </h6>  -->
+                    <!-- </div> -->
+                    <div class="col-2 col-md-auto ">
+                        <h5 class="card-subtitle" style=" margin-right: 0px; margin-top:5px; color: #696969;">1 Agustus - 7 Agustus</h5>
                     </div>
-                    <div class="col-3.5">
-                        <h5 class="card-subtitle" style="margin-left: 150px; margin-top:5px; color: #696969;">1 Agustus - 7 Agustus</h5>
-                    </div>
-                    <div class="col-lg-1">
-                        <i class="fas fa-angle-left" style="margin-left:5px; margin-top:10px; color: #696969;" ></i>
-                        <i class="fas fa-angle-right" style="margin-left: 10px; margin-top:10px; color: #696969"></i>
+                    <div class="col col-md-1">
+                        <i class="fas fa-angle-left" style="margin-top:5px; color: #696969;" ></i>
+                        <i class="fas fa-angle-right" style=" margin-left: 10px; margin-top:5px; color: #696969"></i>
                     </div>
                 </div>
                 <!-- Dropdown Bulan, Tahun, Terapkan -->
                     <div class="row">
-                        <div class="col-1.5">
+                        <div class="col ">
                             <h4 class="card-title" style="color: blue; margin-left: 15px"><strong>Rp 1.080.000</strong></h4>
                         </div>
-                        <div class="col-2" style="margin-left: 220px;">
+                        <div class="col-2 col-md-auto" style="">
                             <div class="dl">
                                 <select class="custom-select">
                                     <option value="0" selected>Bulan</option>
@@ -105,7 +105,7 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="col-2">
+                        <div class="col-2" style="margin-right: 65px;">
                             <button type="button" class="btn btn-block btn-info">Terapkan</button>
                         </div>
                     </div>
@@ -115,7 +115,7 @@
                     <div class="row">
                         <!-- column -->
                        <div class="col-md-12 col-lg-12">
-                          <div id="stacked-column-penghematan-mingguan" style="position: relative; height:250px;"></div>
+                          <div id="stacked-column-penghematan-mingguan" style="position: relative; min-height:250px;"></div>
                             <div class="row mb-0 mt-3 text-center">
                             </div>
                         </div>
@@ -135,27 +135,27 @@
                     <hr>
                 </div>
                 <div class="row">
-                    <div class="col-2.5">
+                    <div class="col">
                         <h5 class="card-subtitle" style="margin-left: 15px; margin-top: 10px;">Total Penghematan</h5>
                     </div>
-                    <div class="col-lg-5" style="text-align: left">
+                    <!-- <div class="col-lg-7" style="text-align: left; margin-left: 40px;"> -->
                         <!-- <h4 class="card-title" style="color: blue"><strong>600KWh</strong></h4>
                         <h6 class="card-subtitle">Total Produksi    </h6>  -->
-                    </div>
-                    <div class="col-3.5">
+                    <!-- </div> -->
+                    <div class="col-2 col-md-auto">
                         <h5 class="card-subtitle" style="margin-left: 210px; margin-top:5px; color: #696969;">Agustus 2019</h5>
                     </div>
-                    <div class="col-lg-1">
+                    <div class="col col-md-1">
                         <i class="fas fa-angle-left" style="margin-left:5px; margin-top:10px; color: #696969;" ></i>
                         <i class="fas fa-angle-right" style="margin-left: 10px; margin-top:10px; color: #696969"></i>
                     </div>
                 </div>
                 <!-- Dropdown Bulan, Tahun, Terapkan -->
                     <div class="row">
-                        <div class="col-5.5">
+                        <div class="col">
                             <h4 class="card-title" style="color: blue; margin-left: 15px"><strong>Rp 2.600.000</strong></h4>
                         </div>
-                        <div class="col-2" style="margin-left: 375px;">
+                        <div class="col-2 col-md-auto" style="">
                             <div class="dl">
                                 <select class="custom-select">
                                     <option value="0" selected>Bulan</option>
@@ -183,7 +183,7 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="col-2">
+                        <div class="col-2" style="margin-right: 65px;">
                             <button type="button" class="btn btn-block btn-info">Terapkan</button>
                         </div>
                     </div>
@@ -213,27 +213,27 @@
                     <hr>
                 </div>
                 <div class="row">
-                    <div class="col-2.5">
+                    <div class="col">
                         <h5 class="card-subtitle" style="margin-left: 15px; margin-top: 10px;">Total Penghematan</h5>
                     </div>
-                    <div class="col-lg-5" style="text-align: left">
+                    <!-- <div class="col-md-2 col-md-auto" style="text-align: left"> -->
                         <!-- <h4 class="card-title" style="color: blue"><strong>600KWh</strong></h4>
                         <h6 class="card-subtitle">Total Produksi    </h6>  -->
-                    </div>
-                    <div class="col-3.5">
+                    <!-- </div> -->
+                    <div class="col-2 col-md-auto">
                         <h5 class="card-subtitle" style="margin-left: 272px; margin-top:5px; color: #696969;">2019</h5>
                     </div>
-                    <div class="col-lg-1">
+                    <div class="col col-md-1">
                         <i class="fas fa-angle-left" style="margin-left:5px; margin-top:10px; color: #696969;" ></i>
                         <i class="fas fa-angle-right" style="margin-left: 10px; margin-top:10px; color: #696969"></i>
                     </div>
                 </div>
                 <!-- Dropdown Bulan, Tahun, Terapkan -->
                     <div class="row">
-                        <div class="col-5.5">
+                        <div class="col">
                             <h4 class="card-title" style="color: blue; margin-left: 15px"><strong>Rp 36.080.000</strong></h4>
                         </div>
-                        <div class="col-2" style="margin-left: 375px;">
+                        <div class="col-2 col-md-auto" style="">
                         </div>
                         <div class="col-1.5">
                             <div class="dl">
@@ -244,7 +244,7 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="col-2">
+                        <div class="col-2" style="margin-right: 65px;">
                             <button type="button" class="btn btn-block btn-info">Terapkan</button>
                         </div>
                     </div>
@@ -311,7 +311,7 @@
                         <div class="col-6">
                             <br>
                             <h3>215 <small>KW</small></h3>
-                            <h6 class="card-title text-black">Performa Hari Ini</h6>
+                            <h6 class="card-title text-black">Total Green Carbon Credit</h6>
                         </div>
                     </div>
                     </div>

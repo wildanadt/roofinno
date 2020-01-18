@@ -112,7 +112,7 @@
                     <div class="dropdown-menu dropdown-menu-right user-dd animated flipInY">
                         <span class="with-arrow"><span class="bg-primary"></span></span>
                         <div class="d-flex no-block align-items-center p-15 bg-primary text-white mb-2">
-                            <div class=""><img src="<?php echo base_url(); ?>assets/image/users/1.jpg" alt="user" class="img-circle" width="60"></div>
+                            <div class=""><img src="<?php echo base_url(); ?>assets/images/users/1.jpg" alt="user" class="img-circle" width="60"></div>
                             <div class="ml-2">
                                 <h4 class="mb-0">Habib</h4>
                                 <p class=" mb-0">habib@soerja.com</p>
