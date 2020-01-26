@@ -27,7 +27,7 @@
                      </div>
                     <div class="col-4 col-md-auto text-center" style="background-color: #0000e5; text-align: right;  border-radius: 7px">
                         <br>
-                        <h1 style="color: white; padding: 10px 70px 10px;">Rp 20.000.000</h1>
+                        <h1 style="color: white; padding: 1px 50px 1px;">Rp 20.000.000</h1>
                         <h5 style="color: white">20 Juni 2018 - 20 Agustus 2019</h5>
                         <br>
                     </div>
@@ -66,7 +66,7 @@
                         <div class="col ">
                             <h4 class="card-title" style="color: blue; margin-left: 15px"><strong>Rp 1.080.000</strong></h4>
                         </div>
-                        <div class="col-2 col-md-auto" style="">
+                        <div class="col-2 col-md-auto" >
                             <div class="dl">
                                 <select class="custom-select">
                                     <option value="0" selected>Bulan</option>
@@ -155,7 +155,7 @@
                         <div class="col">
                             <h4 class="card-title" style="color: blue; margin-left: 15px"><strong>Rp 2.600.000</strong></h4>
                         </div>
-                        <div class="col-2 col-md-auto" style="">
+                        <div class="col-2 col-md-auto">
                             <div class="dl">
                                 <select class="custom-select">
                                     <option value="0" selected>Bulan</option>
@@ -233,7 +233,7 @@
                         <div class="col">
                             <h4 class="card-title" style="color: blue; margin-left: 15px"><strong>Rp 36.080.000</strong></h4>
                         </div>
-                        <div class="col-2 col-md-auto" style="">
+                        <div class="col-2 col-md-auto">
                         </div>
                         <div class="col-1.5">
                             <div class="dl">
