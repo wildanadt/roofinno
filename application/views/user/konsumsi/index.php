@@ -49,21 +49,21 @@
                         </div>
                         <div class="row">
                             <div class="col-1.5">
-                                <h4 class="card-title" style="color: blue ; margin-left: 15px" ><strong>2KWh</strong></h4>
+                                <h4 class="card-title" style="color: blue ; margin-left: 15px" ><strong>2KW</strong></h4>
                                 <h6 class="card-subtitle" style="margin-left: 15px">Pada 12.00 PM</h6>
                             </div>
-                            <div class="col-1.5" style="text-align: left">
+                            <div class=" col " style="text-align: left">
                                 <h4 class="card-title" style="color: blue ; margin-left: 15px"><strong>600KWh</strong></h4>
-                                <h6 class="card-subtitle" style="margin-left: 15px">Total Produksi    </h6>
+                                <h6 class="card-subtitle" style="margin-left: 15px">Total Konsumsi</h6>
                             </div>
-                            <div class="col-lg-5.5 float-right">
-                                <h5 class="card-subtitle" style="margin-left:285px; margin-top:10px">7 Agustus 2019</h5>
+                            <div class=" col-2 col-md-auto">
+                                <h5 class="card-subtitle" style=" margin-top:10px; color: black;">7 Agustus 2019</h5>
                             </div>
-                            <div class="col-lg-1">
+                            <div class="col-1 col-md-auto">
                                 <i class="fas fa-angle-left" style="margin-left:25px; margin-top:10px"></i>
                                 <i class="fas fa-angle-right" style="margin-left: 10px; margin-top:10px"></i>
                             </div>
-                            <div class="col-2.5">
+                            <div class="col-md-2">
                                 <div class="input-group">
                                     <input type="text" class="form-control" id="datepicker-autoclose" placeholder="mm/dd/yyyy">
                                     <div class="input-group-append">
@@ -76,7 +76,7 @@
                     <div class="row">
                         <!-- column -->
                         <div class="col-12">
-                            <div class="campaign" style="height: 250px"></div>
+                            <div class="ct-sm-line-chart" style="height: 250px"></div>
                         </div>
                         <!-- column -->
                     </div>
@@ -106,14 +106,14 @@
                         <hr>
                     </div>
                     <div class="row">
-                        <div class="col-lg-2">
+                        <div class="col">
                             <h6 class="card-subtitle" style="margin-left: 30px">Total Konsumsi</h6>
                             <h4 class="card-title" style="color: blue; margin-left: 30px"><strong>600KWh</strong></h4>
                         </div>
-                        <div class="col-lg-9 float-right">
-                             <h5 class="card-subtitle" style="margin-left:505px; margin-top:5px; color: black;">1 Agustus - 7 Agustus</h5>
+                        <div class="col-sm-2 col-md-auto">
+                             <h5 class="card-subtitle" style=" margin-top:5px; color: black;">1 Agustus - 7 Agustus</h5>
                         </div>
-                        <div class="col-lg-1">
+                        <div class="col-md-1">
                                 <i class="fas fa-angle-left" style="margin-left:5px; margin-top:10px"></i>
                                 <i class="fas fa-angle-right" style="margin-left: 10px; margin-top:10px"></i>
                         </div>
@@ -203,14 +203,14 @@
                         <hr>
                     </div>
                     <div class="row">
-                        <div class="col-lg-2">
+                        <div class="col">
                             <h6 class="card-subtitle" style="margin-left: 30px">Total Konsumsi</h6>
                             <h4 class="card-title" style="color: blue; margin-left: 30px"><strong>600KWh</strong></h4>
                         </div>
-                        <div class="col-lg-9 float-right">
-                             <h5 class="card-subtitle" style="margin-left:570px; margin-top:5px; color: black">Agustus 2019</h5>
+                        <div class="col-sm-2 col-md-auto">
+                             <h5 class="card-subtitle" style=" margin-top:5px; color: black">Agustus 2019</h5>
                         </div>
-                        <div class="col-lg-1">
+                        <div class="col-md-1">
                                 <i class="fas fa-angle-left" style="margin-left:5px; margin-top:10px"></i>
                                 <i class="fas fa-angle-right" style="margin-left: 10px; margin-top:10px"></i>
                         </div>
@@ -290,14 +290,14 @@
                         <hr>
                     </div>
                     <div class="row">
-                        <div class="col-lg-2">
+                        <div class="col">
                             <h6 class="card-subtitle" style="margin-left: 30px">Total Konsumsi</h6>
                             <h4 class="card-title" style="color: blue; margin-left: 30px"><strong>600KWh</strong></h4>
                         </div>
-                        <div class="col-lg-9 float-right">
-                             <h5 class="card-subtitle" style="margin-left:635px; margin-top:5px; color: black">2019</h5>
+                        <div class="col-dm-2 col-md-auto">
+                             <h5 class="card-subtitle" style=" margin-top:5px; color: black">2019</h5>
                         </div>
-                        <div class="col-lg-1">
+                        <div class="col-md-1">
                                 <i class="fas fa-angle-left" style="margin-left:5px; margin-top:10px"></i>
                                 <i class="fas fa-angle-right" style="margin-left: 10px; margin-top:10px"></i>
                         </div>

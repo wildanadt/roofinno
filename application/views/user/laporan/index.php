@@ -27,8 +27,8 @@
                     <div class="col-md-1 align-middle">
                         <div class="circle text-center">190<strong> $</strong> </div>
                     </div>
-                    <div class="col-md-6 ">
-                        <h3><strong>Selamat</strong> tagihan bulan ini di bawah rata-rata, Anda mendapatkan Carbon Credit</h3>
+                    <div class="col-md-6 align-middle">
+                        <h3>Selamat tagihan bulan ini di bawah rata-rata, Anda mendapatkan <strong>Carbon Credit</strong></h3>
                     </div>
                     <div class="col">
                         <h5 class="card-subtitle text-right" style="margin-top:10px">7 Agustus 2019</h5>
